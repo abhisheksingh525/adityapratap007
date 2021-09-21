@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I am `Aditya Pratap Singh`</h1>
 <h3 align="center">On a road to Software Engineer</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-gaur-5467051a1/">
-    <img align="center" alt="Nikhil's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/aditya-pratap-singh-b6ba901ba/">
+    <img align="center" alt="Aditya's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
 
  
-  <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=nikhil-gaur457.visitor-badge">
+  <img height="22" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=adityapratap007.visitor-badge">
 </p>
 <br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
@@ -30,7 +30,7 @@
  
  ### Github Profile Trophy
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhil-gaur457&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapratap007&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 
 <!-- Feel free to reach out and introduce yourself :D-->
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/sparshgarg07/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em> -->
@@ -40,21 +40,21 @@
 <p align="center">
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=nikhil-gaur457&show_icons=true&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=adityapratap007&show_icons=true&hide_border=true"
     />
     <img
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-gaur457&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapratap007&show_icons=true&hide_border=true&layout=compact&langs_count=8"
     />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-gaur457&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapratap007&hide_border=true" height="180em" />
 </p>
 
   
 
 <!--
-**nikhil-gaur457/nikhil-gaur457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adityapratap007/adityapratap007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
